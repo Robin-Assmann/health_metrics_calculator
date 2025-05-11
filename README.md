@@ -24,3 +24,10 @@ A simple yet flexible health metrics calculator built with **React Native** and 
 ## License
 
 This project is licensed under the MIT License.
+
+## Screenshots
+
+<p float="middle">
+  <img src="https://github.com/user-attachments/assets/c82d021c-803a-469e-b973-e11b31509ee8" width="45%" />
+  <img src="https://github.com/user-attachments/assets/57e7ed79-c478-4f9b-9a57-c7acd9248b27" width="45%" />
+</p>
